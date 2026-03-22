@@ -182,7 +182,7 @@ function About() {
           {/* ---------------- BUTTON ---------------- */}
 
           <motion.a
-            href="/Portfolio_Naman/NamanResume.pdf"   //after deploy 
+            href="/Portfolio_Naman/NamanResume.pdf?v=1"   //after deploy 
             target="_blank"
             rel="noopener noreferrer"
 
