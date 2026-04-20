@@ -12,11 +12,11 @@ function Projects() {
     },
     {
       title: "Property Website",
-      desc: "Property Web App with Filter & Sort Functionality.",
+      desc: "Property Website with Filter,Sorting & Search Functionality.",
       links:"https://namancomtech.github.io/PropertyWebsite",
     },
     {
-      title: "ToDo List",
+      title: "ToDoList",
       desc: "Add your Daily Tasks here & get status report in Pdf file.",
       links:"https://namancomtech.github.io/ToDoList",
     },
